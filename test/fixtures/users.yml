@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  join: 2021-06-21
+  username: MyString
+  membership: MyString
+
+two:
+  join: 2021-06-21
+  username: MyString
+  membership: MyString
